@@ -1,0 +1,7 @@
+requests
+spotipy
+pyspark
+cassandra-driver
+kafka-python
+matplotlib
+seaborn
